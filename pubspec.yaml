@@ -5,3 +5,4 @@ environment:
 
 dev_dependencies:
   melos: 4.1.0
+  firebase_auth: ^5.3.4
